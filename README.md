@@ -14,3 +14,8 @@ So now the question is that how we are going to send an email using the SMTP? No
 - Thirdly, the receiving server uses an email client to download incoming mail via the map and place it in the inbox of the recipient.
 
 These are the three step process, which the SMTP uses to send an email.
+
+<div align="center">
+    <img src="img1.jpg" width="550px"</img> 
+</div>
+
