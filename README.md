@@ -19,3 +19,21 @@ These are the three step process, which the SMTP uses to send an email.
     <img src="img1.jpg" width="550px"</img> 
 </div>
 
+
+
+
+
+
+
+For the output we will have two windows. The first window where we will be asked to enter the credential that include the email and password. After the login, the first page is going to pop up and will say logging successful. 
+
+<div align="center">
+    <img src="Img4.JPG" width="550px"</img> 
+</div>
+
+
+The second windows is going to display and ask you to compose your email. You are going to write the address to whom you want to send.
+
+<div align="center">
+    <img src="Img5.JPG" width="550px"</img> 
+</div>
